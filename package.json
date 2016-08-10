@@ -1,0 +1,16 @@
+{
+  "name": "yhtsite",
+  "version": "1.0.0",
+  "description": "yaohuitao",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.0"
+  }
+}
