@@ -7,7 +7,7 @@
 <h3>github地址</h3>
 这个脚手架是用node-sass来编译sass文件的，so,得先安装node-sass模块。如果使用npm安装不成功，可以试试淘宝的cnpm。这里就不过多介绍如何安装了。
 安装完node-sass
-&nbsp;&nbsp;<strong>1、 在项目目录clone上面的地址</strong>
+&nbsp;&nbsp;<strong>1、 在项目目录clone上面的地址</strong><br>
 <pre class="prettyprint linenums" >
  git clone https://github.com/kinghulu/yhtsimplesite-sass.git
 </pre>
